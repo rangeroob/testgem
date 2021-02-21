@@ -6,7 +6,7 @@ module Testgem
 
   class Cli
     def hello
-      puts "Hello from the gem. Version #{VERSION}"
+      puts "Hello00000 from the gem. Version #{VERSION}"
     end
   end
 
